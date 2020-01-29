@@ -1,0 +1,29 @@
+
+    div {
+      border: 2px solid black
+  }
+
+  .sidebar {
+      float: left;
+      width: 20%;
+      display: inline-block;
+      height: 100%;
+  }
+
+  .detailedproductinfo {
+      padding-top: 20%;
+      float: left;
+      width: 70%;
+      display: inline;
+      height: 100%;
+  }
+  .productgist{
+      font: 1em sans-serif;
+      color: deeppink;
+      
+  }
+  .productgist:hover{
+      font: 1em sans-serif bold;
+      color: deeppink;
+      background: turquoise;
+  }

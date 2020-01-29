@@ -1,0 +1,11 @@
+.productinfo{
+    font: 1em sans-serif;
+    color: deeppink;
+    
+}
+  .productinfo:hover{
+    font: 1em sans-serif bold;
+    color: deeppink;
+    background: turquoise;
+
+}
